@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@dotcore64/scad-js": "^0.2.0"
+  }
+}
